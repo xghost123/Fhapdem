@@ -117,7 +117,7 @@ Now, the script will start to run and will display the updates on the screen.
 
 ### Wallets having Balance
 
-Navigate to `Fhapedemin\python\hasBalance\` folder. There you can see all the wallets details which has amount on it. 
+Navigate to `Fhapedemin\hasBalance\` folder. There you can see all the wallets details which has amount on it. 
 
 ### Wallets having Transaction(s)
 
